@@ -1,0 +1,34 @@
+table{
+    border-collapse: collapse;
+    margin:10 auto;
+    line-height: 20px;
+}
+td{
+    padding: 10px;
+    border:none ;
+    text-align: left;
+    font-weight: normal;
+}
+th{
+    font-weight: bold;
+    background-color: white;
+    padding: 0.5px;
+    margin: 100%;
+    
+}
+header{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+}
+body {
+    font-size: 15px;
+   
+}
+tr{
+    border-bottom: 1px;
+}
+header{
+    line-height: 20px;
+}
